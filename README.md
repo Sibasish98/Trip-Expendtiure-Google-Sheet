@@ -1,16 +1,3 @@
-# gsheettest
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Flutter application writes records to a Google sheet in cloud, in which google sheet handles rest of the calculation of a expenses and divides it accordingly and calculates rest of the matrics.
+By clicking on "Open Sheet" button it opens up Google sheet file in Google sheet Android app
+![image](https://user-images.githubusercontent.com/27561129/171160527-8dc17e42-de11-4dee-b752-e4cd54e386d9.png)
