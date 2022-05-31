@@ -1,0 +1,4 @@
+#Fri May 27 20:43:46 IST 2022
+base.0=/home/sibasish/AndroidStudioProjects/rTestFlutter/gsheettest/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
